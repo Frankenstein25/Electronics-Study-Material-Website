@@ -1,6 +1,6 @@
-   # Electronics Study Material Website
+# Electronics Study Material Website
 
-## Hosting Link -> [ESM.com](https://electronicsstudymaterial.herokuapp.com/)
+## Deployed Link -> [ESM.com](https://electronicsstudymaterial.herokuapp.com/)
 
 ### Home Page 
 
