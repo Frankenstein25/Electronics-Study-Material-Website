@@ -1,7 +1,5 @@
 # Electronics Study Material Website
 
-## Deployed Link : [ESM.com](https://electronicsstudymaterial.herokuapp.com/)
-
 ### Home Page 
 
 ![](Project_Screenshots/homepage.jpg) 
